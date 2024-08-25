@@ -1,0 +1,3 @@
+[submodule "submodules/pdf-document-layout-analysis"]
+	path = submodules/pdf-document-layout-analysis
+	url = https://github.com/huridocs/pdf-document-layout-analysis.git
